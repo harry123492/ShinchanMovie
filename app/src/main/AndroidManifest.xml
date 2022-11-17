@@ -7,9 +7,9 @@
         android:allowBackup="true"
         android:dataExtractionRules="@xml/data_extraction_rules"
         android:fullBackupContent="@xml/backup_rules"
-        android:icon="@drawable/shinchanface2"
+        android:icon="@drawable/shinchanicon"
         android:label="@string/app_name"
-        android:roundIcon="@drawable/shinchanface2"
+        android:roundIcon="@drawable/shinchanicon"
         android:supportsRtl="true"
         android:theme="@style/Theme.ShinchanMovie"
         tools:targetApi="31">
